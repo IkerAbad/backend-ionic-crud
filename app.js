@@ -1,3 +1,5 @@
+// npx nodemon serve
+
 let express = require('express'),
   path = require('path'),
   mongoose = require('mongoose'),
